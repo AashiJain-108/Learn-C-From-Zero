@@ -64,16 +64,15 @@ Think of it like this:
 
 ```text
         ┌─────────┐
-        │    3    │
+        │    3    │ a 
         └─────────┘
-             │
+             │new value of a     
              │  a = 5
              ▼
         ┌─────────┐
-        │    5    │
+        │    5    │a
         └─────────┘
 
-              a
 ```
 
 The important idea is that **`a` is the name we use to refer to the stored
