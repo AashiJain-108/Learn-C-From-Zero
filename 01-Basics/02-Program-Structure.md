@@ -256,6 +256,6 @@ int main()
 ### Example Output
 
 ```text
-Enter your age: 20
-Your age is 20
+Enter your age: 18
+Your age is 18
 ```
