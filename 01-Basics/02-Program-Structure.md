@@ -116,3 +116,15 @@ A non-zero status can be used to indicate that the program terminated
 with an error or other unsuccessful status.
 
 ---
+
+## Rules for writing C program
+
+1. **Each instruction is written as a separate statement.**
+
+2. **Statements are written in the order in which we want them to be executed.**
+
+3. **C is case-sensitive.** Uppercase and lowercase letters are treated differently.
+
+4. **C is a free-form language.** There is no fixed position on a line where a statement must be written.
+
+5. **Every C statement generally ends with a semicolon (`;`).** The semicolon acts as a statement terminator.
